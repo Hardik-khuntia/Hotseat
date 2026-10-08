@@ -1,0 +1,1752 @@
+[
+ {
+  "id": "kesar",
+  "file": "kesar_dairy.md",
+  "title": "Kesar Dairy: Go Direct, or Keep the Distributors Happy?",
+  "decision_question": "Should Kesar scale its milk-subscription app across Pune, keep it as a small premium channel, or close it?",
+  "summary": "A farmer-owned dairy cooperative is losing city market share to quick-commerce apps and private brands. A five-month subscription pilot shows loyal customers and valuable data, but delivery costs more than the distributor route and key distributors are threatening to retaliate.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Ramesh Kulkarni",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Cash, margins and a payback period the cooperative can afford",
+    "concern": "Delivery cost of ₹7.5 per litre against ₹4.2 through distributors, plus ₹14 crore of investment",
+    "convinced_by": "A credible path to lower delivery cost and a staged investment with clear stop points",
+    "lens": "SWOT: weaknesses and unit economics",
+    "offline_questions": [
+     "Walk me through the unit economics. At ₹7.5 per litre for delivery, where does the money come from?",
+     "If we spend ₹14 crore, what is the first milestone at which you would stop?"
+    ]
+   },
+   {
+    "id": "sales",
+    "name": "Farida Sheikh",
+    "role": "Head of Sales",
+    "avatar": "🤝",
+    "opening_stance": -2,
+    "priority": "Protecting the distributor network that delivers 30 years of volume",
+    "concern": "Three large distributors handling 22% of Pune volume may switch shelf space to a rival",
+    "convinced_by": "A plan that protects distributors' earnings or gives them a role in the app",
+    "lens": "Porter: bargaining power of buyers and channel partners",
+    "offline_questions": [
+     "Three distributors carry 22% of our Pune volume. What do you say to them on Monday morning?",
+     "How much power do distributors really have here, and how would you reduce it?"
+    ]
+   },
+   {
+    "id": "farmer",
+    "name": "Vitthal Pawar",
+    "role": "Farmer Representative",
+    "avatar": "🌾",
+    "opening_stance": 0,
+    "priority": "Milk prices and the annual bonus for 42,000 member farmers",
+    "concern": "Money spent on an app is money not paid as bonus, eight months before board elections",
+    "convinced_by": "Clear benefit to farmers: higher volume, a better price, or a protected bonus",
+    "lens": "SWOT: threats to the cooperative and its members",
+    "offline_questions": [
+     "How exactly does a farmer in Satara benefit from an app in Baner?",
+     "If the app fails, who pays for it?"
+    ]
+   },
+   {
+    "id": "director",
+    "name": "Dr. Meera Iyer",
+    "role": "Independent Director (ex-consumer tech)",
+    "avatar": "📱",
+    "opening_stance": 0,
+    "priority": "Long-term relevance against quick-commerce and private brands",
+    "concern": "Moving too slowly while market share falls from 31% to 26%",
+    "convinced_by": "A sharp view of competitors and how Kesar's data and brand create an advantage",
+    "lens": "Porter: threat of substitutes and new entrants",
+    "offline_questions": [
+     "Quick-commerce takes 12% and delivers in 15 minutes. Why would a customer wait for us until 7 a.m.?",
+     "What does Kesar have that a private brand with deeper pockets cannot copy?"
+    ]
+   }
+  ],
+  "sector": "Food & Dairy"
+ },
+ {
+  "id": "skylane",
+  "file": "skylane_airways.md",
+  "title": "SkyLane Airways: The Tier-2 Route Bet",
+  "decision_question": "Should SkyLane put its six new aircraft on tier-2 routes, on existing metro routes, or split them?",
+  "summary": "A small low-cost airline must deploy six new aircraft. Tier-2 routes have no competition and a subsidy but are below break-even in year 1; metro routes are profitable today but invite fare wars with the two dominant airlines. Pilot shortages and an IPO timeline complicate the choice.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Anil Batra",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Margins and cash ahead of the IPO",
+    "concern": "Tier-2 load factor of 68% is below the 74% break-even",
+    "convinced_by": "Numbers showing when tier-2 routes break even and what happens if the subsidy ends",
+    "lens": "SWOT: weaknesses and financial risk",
+    "offline_questions": [
+     "Expected load factor is 68% and break-even is 74%. How do you close that gap?",
+     "What happens to these routes in year 4 when the subsidy ends?"
+    ]
+   },
+   {
+    "id": "network",
+    "name": "Shalini Gupta",
+    "role": "Head of Network Planning",
+    "avatar": "🗺️",
+    "opening_stance": 1,
+    "priority": "Building routes competitors can't easily attack",
+    "concern": "Getting crowded out of metro routes by the two dominant airlines",
+    "convinced_by": "A clear view of competitive dynamics and route-level advantage",
+    "lens": "Porter: industry rivalry and barriers to entry",
+    "offline_questions": [
+     "The two largest airlines hold 81% of metro seats. What happens when we add flights there?",
+     "If our tier-2 routes succeed, what stops a big airline from copying them?"
+    ]
+   },
+   {
+    "id": "ops",
+    "name": "Capt. Harpreet Sandhu",
+    "role": "Chief of Operations",
+    "avatar": "✈️",
+    "opening_stance": -1,
+    "priority": "Safety, crew and on-time performance",
+    "concern": "40 captains short, 14% crew attrition, fog and runway limits at tier-2 airports",
+    "convinced_by": "An operational plan that accounts for crew, weather and payload limits",
+    "lens": "SWOT: internal weaknesses and operational threats",
+    "offline_questions": [
+     "We are 40 captains short. Who flies these new routes?",
+     "Three airports limit us to 150 passengers in summer. Have you included that in your numbers?"
+    ]
+   },
+   {
+    "id": "investor",
+    "name": "Rahul Mehta",
+    "role": "Lead Investor (PE fund, 34%)",
+    "avatar": "📈",
+    "opening_stance": 0,
+    "priority": "A clean IPO story within two years",
+    "concern": "Visible growth and stable margins",
+    "convinced_by": "A recommendation that tells a growth story without risking margin stability",
+    "lens": "SWOT: opportunities and the investor narrative",
+    "offline_questions": [
+     "How does this decision look in an IPO prospectus?",
+     "Which option gives us growth and stable margins at the same time?"
+    ]
+   }
+  ],
+  "sector": "Aviation"
+ },
+ {
+  "id": "mitra",
+  "file": "mitra_finance.md",
+  "title": "Mitra Finance: Lending to Gig Workers at Scale",
+  "decision_question": "Should Mitra sign ZipRide's exclusive lending deal, a narrower deal, or grow without ZipRide?",
+  "summary": "A mid-sized NBFC can grow its loan book five times through an exclusive deal with a ride platform. The pilot shows strong repeat borrowing but overdue loans above plan, auto-deduction helps but worries riders, and the partner can exit at 90 days' notice.",
+  "board": [
+   {
+    "id": "cro",
+    "name": "Sanjeev Rao",
+    "role": "Chief Risk Officer",
+    "avatar": "🛡️",
+    "opening_stance": -1,
+    "priority": "Keeping NPAs below 4% so borrowing costs stay at 11.5%",
+    "concern": "Pilot overdues of 6.8% against a planned 4%",
+    "convinced_by": "Risk controls with numbers, and a plan if overdues stay high",
+    "lens": "SWOT: weaknesses and threats to credit quality",
+    "offline_questions": [
+     "Overdues are 6.8% against a 4% plan. Why should we scale that?",
+     "What is your stop-loss if overdues stay above 4% after six months?"
+    ]
+   },
+   {
+    "id": "partnerships",
+    "name": "Neha Kapoor",
+    "role": "Head of Partnerships",
+    "avatar": "🤝",
+    "opening_stance": 1,
+    "priority": "Growth through platform partnerships",
+    "concern": "Losing the deal to a rival lender",
+    "convinced_by": "Terms that protect Mitra if ZipRide changes its mind",
+    "lens": "Porter: bargaining power of the platform as a supplier of customers",
+    "offline_questions": [
+     "ZipRide can exit with 90 days' notice and takes 1.5%. Who holds the power here?",
+     "What terms would you negotiate before signing?"
+    ]
+   },
+   {
+    "id": "director",
+    "name": "Justice (Retd.) K. Raman",
+    "role": "Independent Director",
+    "avatar": "⚖️",
+    "opening_stance": 0,
+    "priority": "Compliance and fair treatment of borrowers",
+    "concern": "Digital lending rules, data consent, and the rider union's complaint about auto-deductions",
+    "convinced_by": "A design that is clearly compliant and fair to riders in a bad week",
+    "lens": "SWOT: regulatory and reputational threats",
+    "offline_questions": [
+     "The union says auto-deductions leave riders with nothing in a bad week. How do you answer that?",
+     "How does your plan meet the rules on fees, disbursal and consent?"
+    ]
+   },
+   {
+    "id": "investor",
+    "name": "Arjun Desai",
+    "role": "Board Member (investor)",
+    "avatar": "📈",
+    "opening_stance": 0,
+    "priority": "Return on equity and growth",
+    "concern": "ROE of 11% is low; concentration on one partner",
+    "convinced_by": "A path to higher ROE without betting the company on ZipRide",
+    "lens": "Porter: threat of new entrants and substitutes in gig-worker credit",
+    "offline_questions": [
+     "If this works, what stops other lenders from offering riders the same thing?",
+     "What share of our book should depend on one partner?"
+    ]
+   }
+  ],
+  "sector": "Financial Services"
+ },
+ {
+  "id": "vidyapath",
+  "sector": "Education",
+  "file": "vidyapath.md",
+  "title": "VidyaPath: Should an Online Coaching Brand Open Classrooms?",
+  "decision_question": "Should VidyaPath open 120 offline centres, franchise to existing coaching institutes, or stay online and cut costs?",
+  "summary": "An online test-prep company is shrinking as students drift back to physical coaching. A six-centre hybrid pilot shows far better renewals but is below break-even, and star teachers want a bigger share.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Kavya Rao",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Cash runway and a route to profit",
+    "concern": "Pilot centres average 180 students against a break-even of 220",
+    "convinced_by": "A phased plan with a stop point if centres miss break-even",
+    "lens": "SWOT: weaknesses and unit economics",
+    "offline_questions": [
+     "Pilot centres average 180 students and break-even is 220. Why open 120 more?",
+     "120 centres at ₹1.6 crore is ₹192 crore of our ₹300 crore cash. What happens if they fill slowly?"
+    ]
+   },
+   {
+    "id": "academics",
+    "name": "Prof. Ravindra Joshi",
+    "role": "Chief Academic Officer",
+    "avatar": "📚",
+    "opening_stance": 0,
+    "priority": "Learning outcomes and keeping star teachers",
+    "concern": "Nine of the top 40 teachers left last year",
+    "convinced_by": "A plan that keeps teachers and lifts the 31% completion rate",
+    "lens": "Porter: bargaining power of suppliers (teachers)",
+    "offline_questions": [
+     "Our best teachers are the product. How does your plan stop the next nine from leaving?",
+     "Only 31% finish an online course. What does your option do for completion?"
+    ]
+   },
+   {
+    "id": "investor",
+    "name": "Aditya Malhotra",
+    "role": "Lead Investor (28%)",
+    "avatar": "📈",
+    "opening_stance": -1,
+    "priority": "Profit within 18 months",
+    "concern": "A ₹62 crore loss and shrinking revenue",
+    "convinced_by": "A credible path to break-even without burning most of the cash",
+    "lens": "SWOT: opportunities and the investor story",
+    "offline_questions": [
+     "Which option gets us to profit in 18 months, and how?",
+     "If franchising needs no capital, why would we spend ₹1.6 crore a centre?"
+    ]
+   },
+   {
+    "id": "growth",
+    "name": "Sneha Reddy",
+    "role": "Head of Growth",
+    "avatar": "🚀",
+    "opening_stance": 0,
+    "priority": "Winning back students from offline rivals",
+    "concern": "Parents now want classrooms and rivals have already opened centres",
+    "convinced_by": "A clear view of how VidyaPath beats offline rivals, not copies them",
+    "lens": "Porter: rivalry and threat of substitutes",
+    "offline_questions": [
+     "Rivals already have centres. Why would a parent in Kota choose ours?",
+     "How does a franchise partner protect the VidyaPath brand if their teaching is poor?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "arogya",
+  "sector": "Healthcare",
+  "file": "arogya_hospitals.md",
+  "title": "Arogya Hospitals: Taking Specialist Care to Tier-3 Towns",
+  "decision_question": "Should Arogya build 12 small hospitals in tier-3 towns, run existing local hospitals under contract, or stay in its current cities?",
+  "summary": "A profitable hospital chain wants to reach smaller towns. Building its own hospitals means heavy capital, lower prices, slow government insurance payments and a specialist shortage; an asset-light contract model is cheaper but gives less control over quality.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Venkatesh Iyer",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Cash and receivables",
+    "concern": "₹540 crore of spending and scheme payments delayed 110 days",
+    "convinced_by": "Numbers showing the spokes can carry slow-paying patients",
+    "lens": "SWOT: weaknesses and financial risk",
+    "offline_questions": [
+     "Scheme payments arrive after 110 days. How do the spokes pay salaries in the meantime?",
+     "Twelve hospitals at ₹45 crore each is ₹540 crore. What's the payback?"
+    ]
+   },
+   {
+    "id": "medical",
+    "name": "Dr. Farhan Siddiqui",
+    "role": "Medical Director",
+    "avatar": "🩺",
+    "opening_stance": 0,
+    "priority": "Clinical quality and specialist staffing",
+    "concern": "Specialists won't move without a 30% premium",
+    "convinced_by": "A staffing and quality plan that works in a small town",
+    "lens": "SWOT: internal weaknesses",
+    "offline_questions": [
+     "Who will be the cardiologist in a 100-bed hospital six hours from Chennai?",
+     "Under a contract model, how do we stop a partner hospital cutting corners with our name on it?"
+    ]
+   },
+   {
+    "id": "director",
+    "name": "Meenakshi Sundaram",
+    "role": "Independent Director (ex-insurer)",
+    "avatar": "⚖️",
+    "opening_stance": -1,
+    "priority": "Dependence on government insurance",
+    "concern": "55% of tier-3 patients on scheme rates about 35% below cash rates",
+    "convinced_by": "A payer mix that doesn't depend on the scheme",
+    "lens": "Porter: bargaining power of buyers (payers)",
+    "offline_questions": [
+     "If the government is the main buyer, who sets our prices?",
+     "What happens to margins if scheme rates are cut again?"
+    ]
+   },
+   {
+    "id": "strategy",
+    "name": "Arjun Pillai",
+    "role": "Head of Strategy",
+    "avatar": "🗺️",
+    "opening_stance": 0,
+    "priority": "Getting to smaller towns before rivals",
+    "concern": "Two chains entered tier-2 cities in 2025",
+    "convinced_by": "A clear advantage that rivals can't easily copy",
+    "lens": "Porter: threat of new entrants",
+    "offline_questions": [
+     "If we wait, what stops a rival chain from taking these towns first?",
+     "What does Arogya have in a small town that a local hospital doesn't?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "medivance",
+  "sector": "Pharmaceuticals",
+  "file": "medivance_pharma.md",
+  "title": "Medivance Pharma: Fix, Sell or Pivot the US Business?",
+  "decision_question": "Should Medivance fix its plant and stay in US generics, sell the US business, or pivot to complex injectables?",
+  "summary": "A mid-sized drug maker's US generics business is squeezed by price erosion and a regulator's warning letter that has frozen new launches. A buyer has made an offer, the India business is more profitable, and a riskier R&D pivot is on the table.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Rupal Mehta",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": 0,
+    "priority": "Shareholder value and debt",
+    "concern": "US margins of 13% against 24% in India",
+    "convinced_by": "A valuation-based case comparing the three options",
+    "lens": "SWOT: weaknesses and opportunities",
+    "offline_questions": [
+     "The buyer offers ₹2,100 crore. What is the US business worth to us if we keep it?",
+     "Why spend ₹600 crore on injectables when India earns 24% margins today?"
+    ]
+   },
+   {
+    "id": "quality",
+    "name": "Dr. Suresh Nair",
+    "role": "Head of Quality",
+    "avatar": "🔬",
+    "opening_stance": -1,
+    "priority": "Getting the Vadodara plant cleared",
+    "concern": "Remediation takes 18 to 24 months with no guarantee",
+    "convinced_by": "A credible remediation plan and honesty about its risk",
+    "lens": "SWOT: internal weaknesses",
+    "offline_questions": [
+     "If clearance fails after 24 months, where does that leave the company?",
+     "How do we make sure the data-integrity lapses never happen again?"
+    ]
+   },
+   {
+    "id": "india",
+    "name": "Pooja Kothari",
+    "role": "Head of India Business",
+    "avatar": "🇮🇳",
+    "opening_stance": 0,
+    "priority": "Funding the India business",
+    "concern": "India grows 11% a year but competes with the US business for money",
+    "convinced_by": "A plan that puts capital where returns are highest",
+    "lens": "Porter: rivalry in Indian branded medicines",
+    "offline_questions": [
+     "Every rupee for Vadodara is a rupee not spent on India. Why is that right?",
+     "How do Indian rivals respond if we suddenly have ₹2,100 crore to spend?"
+    ]
+   },
+   {
+    "id": "promoter",
+    "name": "Harish Bhatt",
+    "role": "Promoter Director (52%)",
+    "avatar": "🏛️",
+    "opening_stance": -2,
+    "priority": "Keeping the company large and family-led",
+    "concern": "Selling 46% of revenue shrinks the company",
+    "convinced_by": "Proof that a smaller company is a more valuable one",
+    "lens": "Porter: threat of substitutes and price erosion",
+    "offline_questions": [
+     "Why would we sell half the company my father built?",
+     "Prices fall 9% a year in the US. Is that the market's fault or ours?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "veloce",
+  "sector": "Automotive & EV",
+  "file": "veloce_motors.md",
+  "title": "Veloce Motors: Sell the Scooter Without the Battery?",
+  "decision_question": "Should Veloce adopt battery-as-a-service with a swapping partner, build its own battery plant, or keep selling scooters with batteries?",
+  "summary": "An electric scooter maker faces a subsidy cut and price-sensitive buyers. Selling scooters without batteries would cut the sticker price sharply but lock it into one swapping partner; building a battery plant cuts costs but needs heavy capital after a safety recall.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Anjali Deshpande",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Margins and capital",
+    "concern": "A ₹380 crore plant or a 5-year dependence on one partner",
+    "convinced_by": "A comparison of cash and margins across the three options",
+    "lens": "SWOT: weaknesses and financial risk",
+    "offline_questions": [
+     "The subsidy dropped by ₹5,000. Which option protects our margin best?",
+     "What does ₹380 crore of plant spending do to our cash for the next two years?"
+    ]
+   },
+   {
+    "id": "engineering",
+    "name": "Rohit Kulkarni",
+    "role": "Head of Engineering and Safety",
+    "avatar": "🔧",
+    "opening_stance": -1,
+    "priority": "Battery safety after the recall",
+    "concern": "3,200 scooters recalled after a fire in 2025",
+    "convinced_by": "Control over battery quality, whoever makes it",
+    "lens": "SWOT: internal weaknesses",
+    "offline_questions": [
+     "After a recall of 3,200 scooters, would you hand our batteries to someone else?",
+     "If a ChargeHop battery catches fire in a Veloce scooter, whose name is in the news?"
+    ]
+   },
+   {
+    "id": "sales",
+    "name": "Gurpreet Kaur",
+    "role": "Head of Sales",
+    "avatar": "🏍️",
+    "opening_stance": 0,
+    "priority": "Dealers and customers",
+    "concern": "Dealers earn more on complete scooters",
+    "convinced_by": "A price that sells and a deal dealers will support",
+    "lens": "Porter: bargaining power of buyers and dealers",
+    "offline_questions": [
+     "₹72,000 sounds cheap, but ₹2,200 a month adds up. How do we explain the real cost?",
+     "Why would our dealers push a product they earn less on?"
+    ]
+   },
+   {
+    "id": "investor",
+    "name": "Vikram Shetty",
+    "role": "Board Member (investor)",
+    "avatar": "📈",
+    "opening_stance": 0,
+    "priority": "Scale and long-term value",
+    "concern": "Locking into one partner for 5 years",
+    "convinced_by": "Growth without giving a partner too much power",
+    "lens": "Porter: bargaining power of suppliers (ChargeHop)",
+    "offline_questions": [
+     "Who holds the power in a five-year exclusive deal with ChargeHop?",
+     "If battery prices fall, which option gains most?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tantu",
+  "sector": "Retail & Apparel",
+  "file": "tantu_apparel.md",
+  "title": "Tantu Apparel: Faster Fashion or Slower Craft?",
+  "decision_question": "Should Tantu speed up to two-week design cycles, move upmarket into certified handloom, or fix its inventory first?",
+  "summary": "An ethnicwear brand is losing young customers to fast-fashion rivals while sitting on unsold stock. Speeding up means more designs and more inventory risk; going upmarket plays to its weaver network but shrinks its market.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Sunil Agarwal",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Inventory and markdowns",
+    "concern": "₹190 crore of unsold stock and markdowns at 18% of revenue",
+    "convinced_by": "A plan that cuts inventory risk before adding designs",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "We already have ₹190 crore of unsold stock. How does tripling designs help?",
+     "What happens to markdowns if a two-week collection doesn't sell?"
+    ]
+   },
+   {
+    "id": "design",
+    "name": "Aarav Jain",
+    "role": "Head of Design",
+    "avatar": "🎨",
+    "opening_stance": 0,
+    "priority": "A brand that young buyers want",
+    "concern": "Only 19% of buyers are under 25",
+    "convinced_by": "A plan that wins younger customers without copying rivals",
+    "lens": "Porter: rivalry and threat of substitutes",
+    "offline_questions": [
+     "A rival launches 40 styles a week at prices 30% lower. Can we beat them at their own game?",
+     "What would make a 22-year-old choose Tantu?"
+    ]
+   },
+   {
+    "id": "weavers",
+    "name": "Shabnam Ansari",
+    "role": "Head of Artisan Partnerships",
+    "avatar": "🧵",
+    "opening_stance": -2,
+    "priority": "Livelihoods of 6,000 weavers",
+    "concern": "Faster cycles would push work to power looms",
+    "convinced_by": "A plan that keeps weavers' work steady",
+    "lens": "SWOT: strengths and threats",
+    "offline_questions": [
+     "What happens to our 6,000 weavers in your plan?",
+     "If handloom is our strength, why would we walk away from it?"
+    ]
+   },
+   {
+    "id": "retail",
+    "name": "Deepak Malhotra",
+    "role": "Head of Retail",
+    "avatar": "🏬",
+    "opening_stance": 0,
+    "priority": "Store sales and online growth",
+    "concern": "Stores are slower-moving than online, where customers buy 2.1 times more often",
+    "convinced_by": "A plan that uses stores and online together",
+    "lens": "SWOT: opportunities",
+    "offline_questions": [
+     "Online customers buy 2.1 times more often. What does that mean for our 140 stores?",
+     "Will a 25% price rise empty our stores?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "netsathi",
+  "sector": "Telecom",
+  "file": "netsathi.md",
+  "title": "NetSathi: Wireless Now or Fibre for the Long Run?",
+  "decision_question": "Should NetSathi reach villages quickly with fixed wireless, build fibre slowly, or do a mix?",
+  "summary": "A regional internet provider wants to expand into villages. Fixed wireless is cheaper and faster but earns less per customer; fibre lasts decades and earns more but needs heavy borrowing close to its loan limits.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Manjiri Kulkarni",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Staying within loan limits",
+    "concern": "Debt at 3.4 times EBITDA against a limit of 4 times",
+    "convinced_by": "A funding plan that keeps debt below 4 times",
+    "lens": "SWOT: weaknesses and financial risk",
+    "offline_questions": [
+     "Fibre costs ₹610 crore. How do we fund it without breaking our 4 times limit?",
+     "How much of the 30% subsidy can we actually count on?"
+    ]
+   },
+   {
+    "id": "cto",
+    "name": "Rahul Bhonsle",
+    "role": "CTO",
+    "avatar": "📡",
+    "opening_stance": 0,
+    "priority": "A network that lasts",
+    "concern": "Wireless lasts about 7 years against 20 for fibre",
+    "convinced_by": "A plan that doesn't need rebuilding in seven years",
+    "lens": "SWOT: strengths and weaknesses of each technology",
+    "offline_questions": [
+     "Wireless needs replacing in about 7 years. What then?",
+     "We'd depend on another operator's towers. What if they raise the 18% share?"
+    ]
+   },
+   {
+    "id": "rural",
+    "name": "Sarita Yadav",
+    "role": "Head of Rural Business",
+    "avatar": "🌾",
+    "opening_stance": 0,
+    "priority": "Reaching villages fast",
+    "concern": "A national operator is already offering cheap wireless nearby",
+    "convinced_by": "Speed to market before the national operator arrives",
+    "lens": "Porter: threat of new entrants",
+    "offline_questions": [
+     "A national operator is already in nearby towns. Can we afford to take four years?",
+     "Will a village family pay ₹520 a month for fibre?"
+    ]
+   },
+   {
+    "id": "lender",
+    "name": "Anand Joshi",
+    "role": "Nominee Director (lenders)",
+    "avatar": "🏦",
+    "opening_stance": -2,
+    "priority": "Repayment and covenants",
+    "concern": "Monthly churn of 2.8% makes revenue less certain",
+    "convinced_by": "Low churn and conservative borrowing",
+    "lens": "Porter: bargaining power of buyers",
+    "offline_questions": [
+     "With churn at 2.8% a month, how sure are you of the revenue that repays our loans?",
+     "Which option can you pay back even if growth disappoints?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sthapana",
+  "sector": "Real Estate",
+  "file": "sthapana_realty.md",
+  "title": "Sthapana Realty: Luxury Towers or Affordable Homes?",
+  "decision_question": "Should Sthapana build luxury homes, affordable homes, or a mix on its 18-acre Bengaluru land?",
+  "summary": "A developer with high debt must decide what to build on a large land parcel. Luxury homes earn higher margins but sell slowly; affordable homes sell fast at thin margins. The city already has a large stock of unsold homes.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Nandini Rao",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -2,
+    "priority": "Debt and cash flow",
+    "concern": "₹1,100 crore of debt at 12.5% interest",
+    "convinced_by": "A plan where sales cash arrives fast enough to cut debt",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "Luxury sells 12 homes a month. How long until we sell 900, and what's the interest bill meanwhile?",
+     "Which option reduces our ₹1,100 crore debt fastest?"
+    ]
+   },
+   {
+    "id": "sales",
+    "name": "Kiran Shetty",
+    "role": "Head of Sales",
+    "avatar": "🏠",
+    "opening_stance": 0,
+    "priority": "Selling homes quickly",
+    "concern": "A nearby luxury project has sold only 30%",
+    "convinced_by": "Evidence that buyers will actually come",
+    "lens": "Porter: rivalry",
+    "offline_questions": [
+     "A competitor 3 km away has sold only 30% of its luxury project. Why will ours sell?",
+     "Who buys a ₹55 lakh home here, and can they get a loan?"
+    ]
+   },
+   {
+    "id": "planner",
+    "name": "Dr. Asha Menon",
+    "role": "Independent Director (urban planning)",
+    "avatar": "🏙️",
+    "opening_stance": 0,
+    "priority": "Responsible development",
+    "concern": "Delivery delays and penalties under the regulator's rules",
+    "convinced_by": "A plan Sthapana can deliver on time",
+    "lens": "SWOT: threats",
+    "offline_questions": [
+     "Can we really deliver 3,200 homes in three years on time?",
+     "What does the 2028 metro line change about your choice?"
+    ]
+   },
+   {
+    "id": "promoter",
+    "name": "Rajiv Hegde Sr.",
+    "role": "Promoter (founder)",
+    "avatar": "🏛️",
+    "opening_stance": -1,
+    "priority": "The Sthapana brand",
+    "concern": "Affordable homes earn only 14% margins",
+    "convinced_by": "A choice that protects the brand and returns",
+    "lens": "SWOT: strengths",
+    "offline_questions": [
+     "We are known for quality. Why build at 14% margins?",
+     "If prices rise after the metro opens, why sell cheap now?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kinara",
+  "sector": "Hospitality",
+  "file": "kinara_hotels.md",
+  "title": "Kinara Hotels: Owning Hotels or Lending the Name?",
+  "decision_question": "Should Kinara grow through franchised and managed hotels, sell some owned hotels to cut debt, or keep growing by owning?",
+  "summary": "A hotel chain wants to quadruple its footprint without the debt that owning hotels requires. A franchise pilot grew fast, but guests rated those hotels lower, raising questions about the brand.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Mohan Krishnan",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Debt and returns",
+    "concern": "₹1,700 crore of debt",
+    "convinced_by": "Growth that doesn't add debt",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "Building one hotel costs ₹180 crore. How many can we afford?",
+     "If we sell 5 hotels for ₹900 crore, what do we lose?"
+    ]
+   },
+   {
+    "id": "brand",
+    "name": "Isha Banerjee",
+    "role": "Head of Brand Standards",
+    "avatar": "⭐",
+    "opening_stance": -2,
+    "priority": "The guest experience",
+    "concern": "Franchise hotels rated 4.1 against 4.5 for owned hotels",
+    "convinced_by": "Real control over quality in franchised hotels",
+    "lens": "SWOT: strengths and threats",
+    "offline_questions": [
+     "Guests rate franchise hotels 4.1 against 4.5. Why should we put our name on 70 more?",
+     "What will you do with a franchise owner who refuses to fix problems?"
+    ]
+   },
+   {
+    "id": "development",
+    "name": "Raghav Sinha",
+    "role": "Head of Development",
+    "avatar": "🏗️",
+    "opening_stance": 0,
+    "priority": "Signing new hotels",
+    "concern": "International chains compete for the same owners",
+    "convinced_by": "Terms that attract owners away from global brands",
+    "lens": "Porter: bargaining power of buyers (hotel owners)",
+    "offline_questions": [
+     "Why would a hotel owner choose Kinara over an international chain?",
+     "What does our 1.2 million-member loyalty programme offer an owner?"
+    ]
+   },
+   {
+    "id": "director",
+    "name": "Farida Wadia",
+    "role": "Independent Director",
+    "avatar": "⚖️",
+    "opening_stance": 0,
+    "priority": "Long-term brand value",
+    "concern": "Growing too fast and diluting the brand",
+    "convinced_by": "A pace of growth the brand can carry",
+    "lens": "Porter: rivalry",
+    "offline_questions": [
+     "Is 100 hotels by 2030 the right target, or just a big number?",
+     "How do international chains keep franchise quality high, and can we copy it?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "reeldesi",
+  "sector": "Media & OTT",
+  "file": "reeldesi.md",
+  "title": "ReelDesi: Ads, Bundles or Higher Prices?",
+  "decision_question": "Should ReelDesi launch a free ad-supported tier, bundle with a telecom operator, or cut content costs?",
+  "summary": "A regional-language streaming service is losing many subscribers every month while content costs eat most of its revenue. A free tier with ads could grow viewers but cannibalise paying users; a telecom bundle adds volume at a low price.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Debjani Roy",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Halving losses in two years",
+    "concern": "Content costs at 68% of revenue",
+    "convinced_by": "A plan that improves revenue per rupee of content",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "Content is 68% of revenue. Which option fixes that?",
+     "₹45 a month from the operator is less than half our ₹99 price. Why take it?"
+    ]
+   },
+   {
+    "id": "content",
+    "name": "Arnab Ghosh",
+    "role": "Head of Content",
+    "avatar": "🎬",
+    "opening_stance": 0,
+    "priority": "Original regional shows",
+    "concern": "Cutting content by 25% would weaken the shows people come for",
+    "convinced_by": "A plan that keeps the original series",
+    "lens": "SWOT: strengths",
+    "offline_questions": [
+     "Our Bengali originals are why people subscribe. What happens if we cut them?",
+     "If national platforms add regional shows, what keeps viewers with us?"
+    ]
+   },
+   {
+    "id": "ads",
+    "name": "Priyanka Pawar",
+    "role": "Head of Ad Sales",
+    "avatar": "📺",
+    "opening_stance": 0,
+    "priority": "Advertising revenue",
+    "concern": "Advertisers pay less for small-town viewers",
+    "convinced_by": "Realistic ad revenue numbers",
+    "lens": "Porter: bargaining power of buyers (advertisers)",
+    "offline_questions": [
+     "At ₹140 per 1,000 views, how many views do we need to replace lost subscribers?",
+     "What do advertisers want that only ReelDesi can offer?"
+    ]
+   },
+   {
+    "id": "investor",
+    "name": "Kunal Mitra",
+    "role": "Board Member (investor)",
+    "avatar": "📈",
+    "opening_stance": -1,
+    "priority": "Growth before the next fundraise",
+    "concern": "11% of subscribers cancel every month",
+    "convinced_by": "A plan that reduces churn, not just adds users",
+    "lens": "Porter: threat of substitutes",
+    "offline_questions": [
+     "With 11% leaving every month, aren't we filling a leaking bucket?",
+     "Who owns the customer in a telecom bundle: us or them?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "khetsetu",
+  "sector": "Agriculture & Agritech",
+  "file": "khetsetu.md",
+  "title": "KhetSetu: Should a Farm Marketplace Start Lending?",
+  "decision_question": "Should KhetSetu offer input credit to farmers through a lending partner, stay a pure marketplace, or pilot credit more slowly?",
+  "summary": "A farm-inputs marketplace finds that most farmers want credit. A pilot with a lending partner boosted purchases but defaults jumped after a drought. Expanding credit could deepen loyalty or bring losses and reputational risk.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Rakesh Dubey",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": 0,
+    "priority": "Growth and loss limits",
+    "concern": "KhetSetu bears losses up to 5% of loans",
+    "convinced_by": "Clear limits on how much KhetSetu could lose",
+    "lens": "SWOT: opportunities and weaknesses",
+    "offline_questions": [
+     "Defaults reached 9% in the drought district. What's our loss if that happens everywhere?",
+     "Credit farmers buy 1.8 times more. Is that worth the risk?"
+    ]
+   },
+   {
+    "id": "risk",
+    "name": "Sunita Pandey",
+    "role": "Head of Risk",
+    "avatar": "🛡️",
+    "opening_stance": -2,
+    "priority": "Controlling defaults",
+    "concern": "Defaults tripled from 3% to 9% after one drought",
+    "convinced_by": "A plan that handles bad seasons",
+    "lens": "SWOT: threats",
+    "offline_questions": [
+     "One drought tripled defaults. What happens in a bad monsoon across all districts?",
+     "Why not leave lending to banks who do it for a living?"
+    ]
+   },
+   {
+    "id": "field",
+    "name": "Ramesh Yadav",
+    "role": "Head of Field Operations",
+    "avatar": "🧑‍🌾",
+    "opening_stance": -1,
+    "priority": "Trust between agents and farmers",
+    "concern": "Agents collecting debts could lose villagers' trust",
+    "convinced_by": "A plan that keeps agents as helpers, not collectors",
+    "lens": "SWOT: strengths",
+    "offline_questions": [
+     "Our agents are trusted. What happens to that trust if they chase repayments?",
+     "How do we treat a farmer who can't repay after a crop failure?"
+    ]
+   },
+   {
+    "id": "investor",
+    "name": "Neha Saxena",
+    "role": "Board Member (investor)",
+    "avatar": "📈",
+    "opening_stance": 0,
+    "priority": "A larger, defensible business",
+    "concern": "Margins of about 7% on sales are thin",
+    "convinced_by": "A route to higher returns that rivals can't copy",
+    "lens": "Porter: threat of new entrants and substitutes (moneylenders)",
+    "offline_questions": [
+     "Moneylenders charge 3% a month. How do we compete without becoming one?",
+     "What stops a big fertiliser company from offering credit directly?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "suryagrid",
+  "sector": "Renewable Energy",
+  "file": "suryagrid.md",
+  "title": "SuryaGrid: Sell Solar Panels or Sell Solar Power?",
+  "decision_question": "Should SuryaGrid move from selling rooftop solar systems to owning them and selling power to small businesses?",
+  "summary": "A solar installer could switch to owning rooftop plants and selling cheaper power to small factories under 20-year contracts. Returns look attractive, but customers pay late, rules have changed in two states, and the plan needs heavy borrowing.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Lavanya Krishnan",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Borrowing and payback",
+    "concern": "₹630 crore of investment, with payments already 75 days late",
+    "convinced_by": "A funding and collection plan that holds up",
+    "lens": "SWOT: weaknesses and financial risk",
+    "offline_questions": [
+     "150 MW at ₹4.2 crore per MW is ₹630 crore. How do we fund it?",
+     "MSMEs pay 75 days late today. Why will they pay on time for 20 years?"
+    ]
+   },
+   {
+    "id": "sales",
+    "name": "Imran Qureshi",
+    "role": "Head of Sales",
+    "avatar": "🤝",
+    "opening_stance": 0,
+    "priority": "Winning customers",
+    "concern": "Installation margins fell from 13% to 9%",
+    "convinced_by": "A model customers will sign quickly",
+    "lens": "Porter: rivalry and buyer power",
+    "offline_questions": [
+     "Saving ₹3.2 a unit sounds good. What will make a factory owner sign a 20-year contract?",
+     "Rivals are cutting prices. Does this model help us escape that?"
+    ]
+   },
+   {
+    "id": "projects",
+    "name": "Divya Menon",
+    "role": "Head of Projects",
+    "avatar": "🔧",
+    "opening_stance": 0,
+    "priority": "Delivering plants that work for 20 years",
+    "concern": "Owning plants means 20 years of maintenance",
+    "convinced_by": "An operations plan for the full 20 years",
+    "lens": "SWOT: internal weaknesses",
+    "offline_questions": [
+     "If we own the panels, who fixes them for 20 years?",
+     "What happens to our panels if a factory closes in year 6?"
+    ]
+   },
+   {
+    "id": "fund",
+    "name": "Peter D'Souza",
+    "role": "Climate Fund Nominee",
+    "avatar": "🌍",
+    "opening_stance": -1,
+    "priority": "Repayment and impact",
+    "concern": "Rule changes in two states",
+    "convinced_by": "Protection against policy and customer risk",
+    "lens": "SWOT: threats",
+    "offline_questions": [
+     "Two states changed the rules in 2025. Which states would you avoid?",
+     "What return do you get if defaults double from 3%?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "raftaar",
+  "sector": "Logistics",
+  "file": "raftaar_logistics.md",
+  "title": "Raftaar Logistics: Sell the Trucks?",
+  "decision_question": "Should Raftaar sell most of its trucks and become an asset-light freight platform, keep its fleet, or run both?",
+  "summary": "A trucking company with thin margins could sell its trucks and match loads to small fleet owners through an app. The pilot cut costs but on-time delivery fell, and its largest client demands near-perfect timing.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Rajesh Arora",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": 0,
+    "priority": "Margins and capital",
+    "concern": "A 5% margin with trucks idle 38% of the time",
+    "convinced_by": "A model that lifts margins without losing revenue",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "Trucks are idle 38% of the time. Is selling them the only fix?",
+     "If we lose the client that is 31% of revenue, what's left?"
+    ]
+   },
+   {
+    "id": "ops",
+    "name": "Harjeet Singh",
+    "role": "Head of Operations",
+    "avatar": "🚚",
+    "opening_stance": -1,
+    "priority": "Delivering on time",
+    "concern": "On-time delivery fell from 94% to 86% in the pilot",
+    "convinced_by": "A plan to get platform trucks above 95% on time",
+    "lens": "SWOT: internal weaknesses",
+    "offline_questions": [
+     "Platform trucks were on time 86% of the time. Our biggest client needs 95%. How?",
+     "Damage claims nearly tripled. Who pays?"
+    ]
+   },
+   {
+    "id": "accounts",
+    "name": "Nisha Bajaj",
+    "role": "Head of Key Accounts",
+    "avatar": "📦",
+    "opening_stance": -2,
+    "priority": "Keeping the largest client",
+    "concern": "The largest client provides 31% of revenue and demands 95% on time",
+    "convinced_by": "A plan the client will accept",
+    "lens": "Porter: bargaining power of buyers",
+    "offline_questions": [
+     "What do I tell our biggest client on Monday?",
+     "Why not keep our own trucks just for them?"
+    ]
+   },
+   {
+    "id": "director",
+    "name": "Col. (Retd.) Vinod Rana",
+    "role": "Independent Director",
+    "avatar": "⚖️",
+    "opening_stance": 0,
+    "priority": "Safety and fair treatment of drivers",
+    "concern": "Platform drivers working long hours",
+    "convinced_by": "Rules that keep platform drivers safe",
+    "lens": "Porter: rivalry and bargaining power of suppliers (truck owners)",
+    "offline_questions": [
+     "Rival apps charge owners 7%. Why would they work with us at 9%?",
+     "How do we make sure platform drivers aren't driving unsafe hours?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kavach",
+  "sector": "Insurance",
+  "file": "kavach_insurance.md",
+  "title": "Kavach Insurance: Tiny Policies Inside Other Apps?",
+  "decision_question": "Should Kavach scale embedded micro-insurance through partner apps, renegotiate the partner terms, or limit it to a few products?",
+  "summary": "A general insurer can sell millions of tiny policies inside travel, shopping and ride apps. Volumes are huge and claims are low, but partners want nearly half the premium and the regulator is watching for mis-selling.",
+  "board": [
+   {
+    "id": "actuary",
+    "name": "Srinivas Murthy",
+    "role": "Chief Actuary",
+    "avatar": "📊",
+    "opening_stance": 0,
+    "priority": "Profitable pricing",
+    "concern": "A 104% combined ratio already",
+    "convinced_by": "Pricing that stays profitable after commission and claims",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "Claims of 22% plus commission of 45% plus technology. What's left?",
+     "Are claims only 22% because customers don't know how to claim?"
+    ]
+   },
+   {
+    "id": "partnerships",
+    "name": "Rohan Kapoor",
+    "role": "Head of Partnerships",
+    "avatar": "🤝",
+    "opening_stance": 1,
+    "priority": "Signing the big apps",
+    "concern": "Partners hold the customers and want 45%",
+    "convinced_by": "Terms that are fair to both sides",
+    "lens": "Porter: bargaining power of suppliers (partner apps)",
+    "offline_questions": [
+     "Partners want 45% of the premium. Who holds the power here?",
+     "What stops a partner from switching to another insurer next year?"
+    ]
+   },
+   {
+    "id": "compliance",
+    "name": "Fatima Shaikh",
+    "role": "Chief Compliance Officer",
+    "avatar": "⚖️",
+    "opening_stance": -2,
+    "priority": "Avoiding mis-selling",
+    "concern": "41% of customers didn't remember buying the cover",
+    "convinced_by": "A design that customers understand and choose",
+    "lens": "SWOT: threats (regulatory)",
+    "offline_questions": [
+     "41% didn't know they bought it. Is that a sale or a trick?",
+     "How will a customer know they're covered and how to claim?"
+    ]
+   },
+   {
+    "id": "ceo_office",
+    "name": "Ajay Menon",
+    "role": "Chief Customer Officer",
+    "avatar": "🙋",
+    "opening_stance": -1,
+    "priority": "Customer trust in the Kavach name",
+    "concern": "Small claims often rejected",
+    "convinced_by": "A claims process that works for a ₹49 policy",
+    "lens": "Porter: threat of substitutes",
+    "offline_questions": [
+     "How does someone claim on a ₹19 trip-delay policy in under five minutes?",
+     "What does one viral complaint do to our motor and health business?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pragati",
+  "sector": "Banking",
+  "file": "pragati_bank.md",
+  "title": "Pragati Bank: Closing Branches in a Digital Age",
+  "decision_question": "Should Pragati Bank close its 120 loss-making branches, convert them to small help points, or keep them open?",
+  "summary": "A private bank does most transactions digitally, but 120 semi-urban branches lose money. They also hold large, low-cost deposits from older customers, employ hundreds of staff and help meet the regulator's rural-presence expectations.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Gautam Shah",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": 0,
+    "priority": "Cost and funding",
+    "concern": "₹132 crore a year to run the 120 branches",
+    "convinced_by": "A plan that cuts cost without losing cheap deposits",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "If 15% of ₹6,800 crore leaves, what does replacing it cost us?",
+     "Do help points at ₹30 lakh a year actually save money?"
+    ]
+   },
+   {
+    "id": "retail",
+    "name": "Rekha Iyer",
+    "role": "Head of Retail Banking",
+    "avatar": "🏦",
+    "opening_stance": -1,
+    "priority": "Keeping customers",
+    "concern": "58% of these customers are over 55",
+    "convinced_by": "A plan that older customers can live with",
+    "lens": "SWOT: strengths",
+    "offline_questions": [
+     "58% of these customers are over 55. What happens to them on the day we close?",
+     "Why not make these branches sell more instead of closing them?"
+    ]
+   },
+   {
+    "id": "hr",
+    "name": "Thomas Varghese",
+    "role": "Chief Human Resources Officer",
+    "avatar": "👥",
+    "opening_stance": -2,
+    "priority": "900 employees",
+    "concern": "The employees' association has asked for no job losses",
+    "convinced_by": "A fair plan for every one of the 900 staff",
+    "lens": "SWOT: threats",
+    "offline_questions": [
+     "Where exactly do 900 people go?",
+     "What do we say to the employees' association?"
+    ]
+   },
+   {
+    "id": "director",
+    "name": "Dr. Vandana Singh",
+    "role": "Independent Director (ex-regulator)",
+    "avatar": "⚖️",
+    "opening_stance": 0,
+    "priority": "Regulatory standing",
+    "concern": "Closures in underserved areas draw scrutiny",
+    "convinced_by": "A plan the regulator will see as responsible",
+    "lens": "Porter: threat of substitutes (fintech apps)",
+    "offline_questions": [
+     "How does closing rural branches look against the 25% rural expectation?",
+     "If fintech apps already serve these towns, what is our edge?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "codeveda",
+  "sector": "IT Services",
+  "file": "codeveda.md",
+  "title": "Codeveda: When AI Does the Work You Bill For",
+  "decision_question": "Should Codeveda switch to outcome-based pricing and retrain staff for AI-assisted delivery, or protect its hourly billing model?",
+  "summary": "An IT services firm earns most of its money by billing hours. AI coding tools can now do the same work with far fewer hours, and big clients are demanding price cuts. Moving to outcome pricing protects margins but shrinks revenue in the short run.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Nirmala Srinivasan",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Revenue and guidance to investors",
+    "concern": "Revenue down about 12% in the short term",
+    "convinced_by": "A plan that shows when revenue recovers",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "Revenue falls about 12%. How do we explain that to investors?",
+     "Margins rise from 18% to 24% on what volume?"
+    ]
+   },
+   {
+    "id": "delivery",
+    "name": "Suresh Babu",
+    "role": "Head of Delivery",
+    "avatar": "💻",
+    "opening_stance": 0,
+    "priority": "Delivering fixed-price work reliably",
+    "concern": "Outcome pricing makes estimates harder",
+    "convinced_by": "A way to price outcomes without losing money on overruns",
+    "lens": "SWOT: internal weaknesses",
+    "offline_questions": [
+     "If we promise an outcome and AI doesn't speed things up as expected, who pays?",
+     "How do you measure an 'outcome' for a maintenance contract?"
+    ]
+   },
+   {
+    "id": "chro",
+    "name": "Ayesha Khan",
+    "role": "Chief Human Resources Officer",
+    "avatar": "👥",
+    "opening_stance": -1,
+    "priority": "18,000 people",
+    "concern": "Fewer hours could mean fewer jobs",
+    "convinced_by": "A people plan with retraining and fair choices",
+    "lens": "SWOT: threats",
+    "offline_questions": [
+     "35% fewer hours. What happens to the people behind those hours?",
+     "Managers are paid on team size. Why would they support this?"
+    ]
+   },
+   {
+    "id": "client",
+    "name": "Mark Fernandes",
+    "role": "Head of Top-5 Client Accounts",
+    "avatar": "🤝",
+    "opening_stance": 0,
+    "priority": "Keeping the biggest clients",
+    "concern": "Top 5 clients are 41% of revenue and two want 20% cuts",
+    "convinced_by": "A proposal clients would choose over rivals",
+    "lens": "Porter: bargaining power of buyers",
+    "offline_questions": [
+     "Two clients want 20% off now. What do we offer them?",
+     "Rivals already offer outcome pricing. What makes ours better?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "fitkul",
+  "sector": "Fitness & Wellness",
+  "file": "fitkul.md",
+  "title": "FitKul: Gyms, App, or Corporate Wellness?",
+  "decision_question": "Should FitKul close underperforming gyms and invest in its app and corporate wellness, or keep its gym network?",
+  "summary": "A gym chain has many loss-making clubs and an app with many downloads but few paying users. Corporate wellness contracts look promising, but moving money from gyms to digital risks the core business.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Neeraj Gupta",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Losses and lease penalties",
+    "concern": "Lease penalties on 8 of the 20 gyms",
+    "convinced_by": "A plan that cuts losses net of exit costs",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "Eight of those leases run for 3 more years. What do the penalties cost?",
+     "Only 6% of app users pay. Why put ₹60 crore there?"
+    ]
+   },
+   {
+    "id": "ops",
+    "name": "Simran Sethi",
+    "role": "Head of Gym Operations",
+    "avatar": "🏋️",
+    "opening_stance": -2,
+    "priority": "Members and trainers",
+    "concern": "22,000 members at gyms that would close",
+    "convinced_by": "A plan that keeps members and trainers",
+    "lens": "SWOT: strengths",
+    "offline_questions": [
+     "Members say our trainers are the best thing about FitKul. What happens to them?",
+     "If we keep only 55% of 22,000 members, is that a success?"
+    ]
+   },
+   {
+    "id": "corporate",
+    "name": "Rahul Menon",
+    "role": "Head of Corporate Sales",
+    "avatar": "🏢",
+    "opening_stance": 0,
+    "priority": "Growing corporate wellness",
+    "concern": "Only 4 companies in the pilot",
+    "convinced_by": "A realistic path to 400 companies",
+    "lens": "SWOT: opportunities",
+    "offline_questions": [
+     "We have 4 companies. How do we get to 400?",
+     "34% monthly use: is that good enough for a company to keep paying?"
+    ]
+   },
+   {
+    "id": "investor",
+    "name": "Ira Bhatnagar",
+    "role": "Board Member (investor)",
+    "avatar": "📈",
+    "opening_stance": 0,
+    "priority": "A scalable model",
+    "concern": "Global apps offer similar classes for less",
+    "convinced_by": "A reason customers pick FitKul over global apps",
+    "lens": "Porter: threat of substitutes",
+    "offline_questions": [
+     "Global apps are cheaper. What does FitKul's app offer that they don't?",
+     "Which part of this business could grow ten times?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rasayan",
+  "sector": "Chemicals & Manufacturing",
+  "file": "rasayan.md",
+  "title": "Rasayan Specialty Chemicals: The China+1 Plant",
+  "decision_question": "Should Rasayan build an ₹850 crore plant backed by a 7-year supply contract, negotiate better terms, or decline?",
+  "summary": "A global agrochemical company wants an Indian supplier to replace China for a key ingredient. The contract guarantees part of the demand, but Chinese prices have fallen sharply, the plant is costly, and the site faces pollution scrutiny.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Bhavna Shah",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Return on a big investment",
+    "concern": "Return falls to 9% at the 60% minimum",
+    "convinced_by": "Contract terms that protect returns",
+    "lens": "SWOT: weaknesses and financial risk",
+    "offline_questions": [
+     "At 60% use, the return is 9%. Why build for that?",
+     "Our biggest plant cost ₹300 crore. Can we manage ₹850 crore?"
+    ]
+   },
+   {
+    "id": "ehs",
+    "name": "Dr. Kiran Joshi",
+    "role": "Head of Environment, Health and Safety",
+    "avatar": "🧪",
+    "opening_stance": -2,
+    "priority": "Safe, clean operations",
+    "concern": "Neighbouring plants fined for effluent discharge",
+    "convinced_by": "A full environmental plan, budgeted",
+    "lens": "SWOT: threats (regulatory)",
+    "offline_questions": [
+     "Two neighbours were fined. Why is this site safe for us?",
+     "Is the ₹70 crore discharge system in your numbers?"
+    ]
+   },
+   {
+    "id": "bd",
+    "name": "Rahul Desai",
+    "role": "Head of Business Development",
+    "avatar": "🌐",
+    "opening_stance": 1,
+    "priority": "Winning global contracts",
+    "concern": "Two Indian rivals bidding for China+1 contracts",
+    "convinced_by": "Speed and a strong long-term relationship",
+    "lens": "Porter: rivalry and threat of new entrants",
+    "offline_questions": [
+     "If we say no, a rival signs. What does that cost us long term?",
+     "What makes this client stay with us after year 7?"
+    ]
+   },
+   {
+    "id": "director",
+    "name": "Prof. Anil Gupta",
+    "role": "Independent Director",
+    "avatar": "⚖️",
+    "opening_stance": 0,
+    "priority": "Long-term risk",
+    "concern": "Chinese prices fell 30% in 2025",
+    "convinced_by": "A plan that survives a price war",
+    "lens": "Porter: bargaining power of buyers and substitutes (Chinese supply)",
+    "offline_questions": [
+     "Chinese prices fell 30%. What stops the client switching back after 3 years?",
+     "What's the worst case, and can the company survive it?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "thalitheory",
+  "sector": "Food Services",
+  "file": "thali_theory.md",
+  "title": "Thali Theory: Leaving the Delivery Apps?",
+  "decision_question": "Should Thali Theory launch its own ordering app, open dine-in outlets, or cut brands and stay on delivery apps?",
+  "summary": "A cloud-kitchen company runs many food brands on delivery apps, which take a large commission. It could build its own app, open restaurants, or simplify. Each path has different costs and risks.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Ashok Menon",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Reaching profit",
+    "concern": "A ₹28 crore loss with 26% commission",
+    "convinced_by": "The quickest route to profit",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "26% commission on ₹380 orders. Which option fixes the economics fastest?",
+     "Thirty restaurants at ₹1.2 crore is ₹36 crore. What's the payback?"
+    ]
+   },
+   {
+    "id": "brand",
+    "name": "Zoya Merchant",
+    "role": "Head of Brands",
+    "avatar": "🍛",
+    "opening_stance": 0,
+    "priority": "Building brands customers ask for",
+    "concern": "Only 18% of customers reorder within 30 days",
+    "convinced_by": "A plan that builds loyal customers",
+    "lens": "SWOT: strengths",
+    "offline_questions": [
+     "Only 18% reorder. Why would they download our app?",
+     "71% of orders come from 3 brands. Why keep the other 11?"
+    ]
+   },
+   {
+    "id": "ops",
+    "name": "Manoj Pillai",
+    "role": "Head of Kitchen Operations",
+    "avatar": "👨‍🍳",
+    "opening_stance": 0,
+    "priority": "Running kitchens well",
+    "concern": "Restaurants are a very different business",
+    "convinced_by": "A plan the team can actually run",
+    "lens": "SWOT: internal weaknesses",
+    "offline_questions": [
+     "We've never run a dine-in restaurant. Who will?",
+     "If we cut 11 brands, how many kitchens can we close?"
+    ]
+   },
+   {
+    "id": "investor",
+    "name": "Sameer Khanna",
+    "role": "Board Member (investor)",
+    "avatar": "📈",
+    "opening_stance": -1,
+    "priority": "Defensibility",
+    "concern": "Delivery apps run competing private-label brands",
+    "convinced_by": "Independence from the delivery apps",
+    "lens": "Porter: bargaining power of buyers (delivery apps) and rivalry",
+    "offline_questions": [
+     "The apps sell their own food brands. Are they our partner or our competitor?",
+     "Rivals got about 15% of orders through their own apps. Why will we do better?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dhwani",
+  "sector": "Consumer Electronics",
+  "file": "dhwani_audio.md",
+  "title": "Dhwani Audio: From Online to Showroom Shelves",
+  "decision_question": "Should Dhwani Audio enter large electronics retail chains, open its own stores, or stay online?",
+  "summary": "An online-first earbuds brand is under price pressure on marketplaces and suffers high returns. A large electronics chain offers shelf space, but wants long credit and high margins. Store shoppers spend more, but cash would be tied up.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Shruti Agarwal",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Cash and working capital",
+    "concern": "45 days' credit while paying suppliers in 30",
+    "convinced_by": "A cash plan that survives the credit gap",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "We pay suppliers in 30 days and get paid in 45. Where does that cash come from?",
+     "After an 18% retailer margin, what gross margin is left?"
+    ]
+   },
+   {
+    "id": "online",
+    "name": "Varun Iyer",
+    "role": "Head of Online Sales",
+    "avatar": "🛒",
+    "opening_stance": 0,
+    "priority": "Protecting online sales",
+    "concern": "Margins fell from 38% to 29% online",
+    "convinced_by": "A plan that doesn't start a price conflict between channels",
+    "lens": "Porter: bargaining power of buyers (marketplaces)",
+    "offline_questions": [
+     "Store prices will be higher. Won't customers check online and buy there?",
+     "Returns are 14% online. Is that a channel problem or a product problem?"
+    ]
+   },
+   {
+    "id": "product",
+    "name": "Ananya Sen",
+    "role": "Head of Product",
+    "avatar": "🎧",
+    "opening_stance": 0,
+    "priority": "A product people want to try",
+    "concern": "Global brands dominate store shelves",
+    "convinced_by": "Products that stand out next to global brands",
+    "lens": "Porter: rivalry",
+    "offline_questions": [
+     "On a shelf next to global brands, why does a shopper pick Dhwani?",
+     "Store shoppers spend ₹2,900. Do we have products at that price?"
+    ]
+   },
+   {
+    "id": "director",
+    "name": "Ramesh Iyengar",
+    "role": "Independent Director (ex-retail)",
+    "avatar": "🏬",
+    "opening_stance": -1,
+    "priority": "Retail discipline",
+    "concern": "One chain controls 160 stores and the terms",
+    "convinced_by": "A deal that doesn't make Dhwani depend on one chain",
+    "lens": "Porter: bargaining power of buyers (retail chain)",
+    "offline_questions": [
+     "ElectroBazaar sets the terms. What happens when they ask for more than 18%?",
+     "Why own stores at ₹80 lakh each instead of using theirs?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "swarnam",
+  "sector": "Jewellery & Luxury",
+  "file": "swarnam.md",
+  "title": "Swarnam Jewellers: The Lab-Grown Diamond Question",
+  "decision_question": "Should Swarnam launch a separate lab-grown diamond brand, sell them in its existing stores, or stay away?",
+  "summary": "A trusted gold-and-diamond jeweller sees lab-grown diamond prices falling fast and younger buyers interested. A separate brand could capture growth, but could confuse customers and hurt trust in its natural diamonds.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Leela George",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": 0,
+    "priority": "Returns on ₹220 crore",
+    "concern": "Lab-grown prices falling about 25% a year",
+    "convinced_by": "Returns that hold up as prices fall",
+    "lens": "SWOT: opportunities and threats",
+    "offline_questions": [
+     "Margins are 45% today, but prices fall 25% a year. What do margins look like in 3 years?",
+     "Why spend ₹220 crore on a new brand if we can use our 62 stores?"
+    ]
+   },
+   {
+    "id": "merch",
+    "name": "Arun Varghese",
+    "role": "Head of Merchandising",
+    "avatar": "💎",
+    "opening_stance": 0,
+    "priority": "The right products for younger buyers",
+    "concern": "61% of under-30s would consider lab-grown",
+    "convinced_by": "A product plan that wins younger buyers",
+    "lens": "SWOT: opportunities",
+    "offline_questions": [
+     "61% of young buyers are interested. Can we afford to ignore them?",
+     "What would a 25-year-old buy from a lab-grown brand?"
+    ]
+   },
+   {
+    "id": "trust",
+    "name": "Susan Mathew",
+    "role": "Head of Customer Trust",
+    "avatar": "🤝",
+    "opening_stance": -2,
+    "priority": "Customer trust and the buyback promise",
+    "concern": "Customers elsewhere couldn't tell natural from lab-grown",
+    "convinced_by": "Clear labelling and honest promises",
+    "lens": "SWOT: strengths and threats",
+    "offline_questions": [
+     "Our 90% buyback is why people trust us. What do we promise for lab-grown?",
+     "How will a customer know for sure what they're buying?"
+    ]
+   },
+   {
+    "id": "promoter",
+    "name": "Joseph Kurian",
+    "role": "Promoter Director",
+    "avatar": "🏛️",
+    "opening_stance": -1,
+    "priority": "The family name",
+    "concern": "Lab-grown could cheapen the Swarnam name",
+    "convinced_by": "A plan that keeps the Swarnam name premium",
+    "lens": "Porter: threat of substitutes and new entrants",
+    "offline_questions": [
+     "Our grandfather built this name on gold. Do we really want to sell factory diamonds?",
+     "Two national brands launched lab-grown lines. Are we late or wise?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jalseva",
+  "sector": "Social Enterprise",
+  "file": "jal_seva.md",
+  "title": "Jal Seva Foundation: Clean Water After the Grant",
+  "decision_question": "Should Jal Seva raise water prices, start a paid bottled-water business, or hand its water ATMs to village councils?",
+  "summary": "A non-profit runs clean-water ATMs in villages, mostly funded by a corporate donor who is cutting support. It must find money without pricing poor families out of clean water.",
+  "board": [
+   {
+    "id": "finance",
+    "name": "Rajendra Singh",
+    "role": "Head of Finance",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Closing the funding gap",
+    "concern": "A 40% cut in grants that cover 70% of costs",
+    "convinced_by": "A plan that covers the gap within a year",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "Grants cover 70% and are falling 40%. Where does the rest come from?",
+     "Bottled water needs ₹18 crore. Where does that come from?"
+    ]
+   },
+   {
+    "id": "community",
+    "name": "Kamla Devi",
+    "role": "Head of Community Programmes",
+    "avatar": "🏘️",
+    "opening_stance": -2,
+    "priority": "Families keeping access to clean water",
+    "concern": "11% stopped using the ATMs after a ₹1 rise",
+    "convinced_by": "A plan that keeps the poorest families drinking clean water",
+    "lens": "SWOT: threats",
+    "offline_questions": [
+     "A ₹1 rise lost 11% of families. What happens at ₹8?",
+     "Where do families go if they stop buying our water?"
+    ]
+   },
+   {
+    "id": "donor",
+    "name": "Vivek Agarwal",
+    "role": "CSR Donor Representative",
+    "avatar": "🤝",
+    "opening_stance": 0,
+    "priority": "Lasting impact without permanent grants",
+    "concern": "A model that depends on one donor",
+    "convinced_by": "A path to standing on its own",
+    "lens": "Porter: bargaining power of suppliers (funders)",
+    "offline_questions": [
+     "We can't fund this forever. When does it stand on its own?",
+     "Why should another donor fund this if we're cutting back?"
+    ]
+   },
+   {
+    "id": "health",
+    "name": "Dr. Nusrat Jahan",
+    "role": "Independent Director (public health)",
+    "avatar": "🩺",
+    "opening_stance": 0,
+    "priority": "Health outcomes",
+    "concern": "Some panchayat-run systems broke down within two years",
+    "convinced_by": "A plan that keeps machines working and water safe",
+    "lens": "SWOT: strengths",
+    "offline_questions": [
+     "Some panchayats let systems break in two years. How do we prevent that?",
+     "How will we know if fewer families are drinking clean water?"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "glowveda",
+  "sector": "Beauty & D2C",
+  "file": "glowveda.md",
+  "title": "Glowveda: Quick Commerce, Pharmacies or Our Own Store?",
+  "decision_question": "Should Glowveda shift its ad budget to quick-commerce apps and pharmacies, or keep building its own website?",
+  "summary": "An Ayurvedic skincare brand sells mostly through marketplaces. Quick-commerce apps are growing fast but take high margins and fees; its own website has loyal repeat buyers but costly customer acquisition.",
+  "board": [
+   {
+    "id": "cfo",
+    "name": "Rohit Bansal",
+    "role": "CFO",
+    "avatar": "💰",
+    "opening_stance": -1,
+    "priority": "Staying near break-even",
+    "concern": "Quick commerce takes 32% plus fees",
+    "convinced_by": "A channel mix that grows without losses",
+    "lens": "SWOT: weaknesses",
+    "offline_questions": [
+     "After 32% margin and listing fees, do we make money on a quick-commerce order?",
+     "Pharmacies want 60 days' credit. Can we afford that?"
+    ]
+   },
+   {
+    "id": "growth",
+    "name": "Tanya Arora",
+    "role": "Head of Growth",
+    "avatar": "🚀",
+    "opening_stance": 1,
+    "priority": "Fast growth",
+    "concern": "Quick commerce growing 9% a month",
+    "convinced_by": "Being where customers are buying now",
+    "lens": "SWOT: opportunities",
+    "offline_questions": [
+     "Quick commerce grows 9% a month. Can we afford to miss it?",
+     "What does it cost us if a rival takes the top spot on these apps?"
+    ]
+   },
+   {
+    "id": "brand",
+    "name": "Dr. Smita Kulkarni",
+    "role": "Head of Product and Brand",
+    "avatar": "🌿",
+    "opening_stance": 0,
+    "priority": "Brand trust and loyal customers",
+    "concern": "Quick-commerce apps launching private-label beauty",
+    "convinced_by": "A plan that builds loyal customers, not one-off buyers",
+    "lens": "Porter: bargaining power of buyers (platforms) and rivalry",
+    "offline_questions": [
+     "The apps sell their own beauty brands. Why help them learn our customers?",
+     "Website customers come back 3 times a year. Why not grow that?"
+    ]
+   },
+   {
+    "id": "investor",
+    "name": "Anil Sharma",
+    "role": "Board Member (investor)",
+    "avatar": "📈",
+    "opening_stance": 0,
+    "priority": "Company value and the stake offer",
+    "concern": "A larger company wants 30%",
+    "convinced_by": "A strategy that raises the value of the business",
+    "lens": "Porter: threat of new entrants",
+    "offline_questions": [
+     "A big company wants 30% of us. Does your plan make that stake worth more or less?",
+     "Which channel would a buyer value most?"
+    ]
+   }
+  ]
+ }
+]
